@@ -1,9 +1,10 @@
 
 # 💫 About Me:
-I'm currently learning
-
-
-## 🌐 Socials:
+Saya seorang pendidik yang bersemangat, setiap hari berinteraksi dengan generasi penerus bangsa untuk membuka pintu pengetahuan. Namun, di balik peran sebagai guru, saya punya ambisi besar: **menguasai Data Science!** 🙌
+<br>-------------------------
+<br>guru yang baik tidak pernah berhenti belajar, dan **Data Science** adalah buku baru yang saya buka dengan penuh rasa ingin tahu! 📚🕵️‍♂️
+<br>Jika Anda sesama pecinta data atau punya saran belajar, mari terhubung!
+## 🌐 Socials: 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dvkrnwn/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devi-kurniawan-662aa9193/) 
 
 # 💻 Tech Stack:
