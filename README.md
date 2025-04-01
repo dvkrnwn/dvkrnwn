@@ -1,4 +1,4 @@
-<img src="dev.png" alt="GitHub Banner" width="100%" />
+<img src="123.png" alt="GitHub Banner" width="100%" />
 
 # 💫 About Me:
 Saya seorang pendidik yang bersemangat, setiap hari berinteraksi dengan generasi penerus bangsa untuk membuka pintu pengetahuan. Namun, di balik peran sebagai guru, saya punya ambisi besar: **menguasai Data Science!** 🙌
